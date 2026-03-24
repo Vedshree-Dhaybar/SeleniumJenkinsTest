@@ -24,8 +24,6 @@ SeleniumJenkinsTest
          └── java 
              └── example 
                  └── NewTest.java 
-  
-R. C. Patel Institute of Technology, Shirpur                                                                                                             Page 3 of 9 
  
 <dependency> 
 <groupId>org.testng</groupId> 
